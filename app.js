@@ -266,6 +266,14 @@ Hint: Be sure to declare and initialize the total variable before the iterations
 Complete Exercise 15 in the space below:
 */
 
-// const total = 
+for (let i = 0; i < numArrays.length; i++){
+   if 
+   for (let i = 0; i < numArrays.length; i++) {
+      
+   }
+
+}
+
+const total = 0;
 
 console.log('Exercise 15 result:\n', total);
