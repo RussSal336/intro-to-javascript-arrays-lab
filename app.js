@@ -229,6 +229,8 @@ const numArrays = [
 	[7, 81, 90]
 ];
 
+const numList = numArrays.at(-1)
+
 console.log('Exercise 13 result:', numList);
 
 
