@@ -247,6 +247,7 @@ Complete Exercise 14 in the space below:
 */
 
 
+const num = numArrays[2][1];
 
 console.log('Exercise 14 result:', num);
 
@@ -265,6 +266,6 @@ Hint: Be sure to declare and initialize the total variable before the iterations
 Complete Exercise 15 in the space below:
 */
 
-
+// const total = 
 
 console.log('Exercise 15 result:\n', total);
